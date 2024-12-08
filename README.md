@@ -19,8 +19,4 @@ https://dribbble.com/shots/22427925-Movie-Streaming-App?utm_source=Clipboard_Sho
 
 ## Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/yubnub-movie-app.git
-
 
